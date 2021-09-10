@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<distances>
+    <distance>
+	<fromCity>moscow</fromCity>
+	<forCity>aniva</forCity>
+	<distance>6655</distance>
+    </distance>
+</distances>
