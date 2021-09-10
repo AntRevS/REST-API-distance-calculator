@@ -1,5 +1,5 @@
 # REST-API-distance-calculator  
-Api for calculating the distance between cities  
+Api for calculating the distance between cities  (Spring, Hibernate)
   
 ## Usage  
 - yourhost:8080 - page for uploading data  
